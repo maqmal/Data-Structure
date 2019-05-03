@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1554012152 source:e:\kuliah\semester 2\tp 7\stack_arr\stack_arr.cpp
+	"stack_arr.h"
+
+1554020865 e:\kuliah\semester 2\tp 7\stack_arr\stack_arr.h
+	<cstring>
+	<iostream>
+
+1554013212 source:e:\kuliah\semester 2\tp 7\stack_arr\main.cpp
+	"stack_arr.h"
+
+1554041403 source:c:\users\aqmal\documents\if 42 9\std\tp 7\tp 7\stack_arr\main.cpp
+	"stack_arr.h"
+
+1554040741 c:\users\aqmal\documents\if 42 9\std\tp 7\tp 7\stack_arr\stack_arr.h
+	<cstring>
+	<iostream>
+
+1554041006 source:c:\users\aqmal\documents\if 42 9\std\tp 7\tp 7\stack_arr\stack_arr.cpp
+	"stack_arr.h"
+

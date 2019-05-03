@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1554023587 source:e:\kuliah\semester 2\tp 7\queue_arr\main.cpp
+	"queue_arr.h"
+
+1554020530 source:e:\kuliah\semester 2\tp 7\queue_arr\queue_arr.cpp
+	"queue_arr.h"
+
+1554020069 e:\kuliah\semester 2\tp 7\queue_arr\queue_arr.h
+	<iostream>
+
+1554043082 source:c:\users\aqmal\documents\if 42 9\std\tp 7\tp 7\queue_arr\main.cpp
+	"queue_arr.h"
+
+1554042855 c:\users\aqmal\documents\if 42 9\std\tp 7\tp 7\queue_arr\queue_arr.h
+	<iostream>
+
+1554043131 source:c:\users\aqmal\documents\if 42 9\std\tp 7\tp 7\queue_arr\queue_arr.cpp
+	"queue_arr.h"
+
