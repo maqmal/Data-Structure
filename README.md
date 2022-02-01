@@ -1,3 +1,3 @@
 # Data-Structure
 
-Dokumentasi TP 7,8,9 dan TUBES STD 2019
+Collection of task and homework from data structure lecture Telkom University.
